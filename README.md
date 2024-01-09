@@ -1,4 +1,8 @@
+# NOTE
+# VERIBLOX IS NO LONGER BEING MAINTAINED / HOSTED. THANK YOU FOR USING VERIBLOX!
+
 # VeriBlox
+
 Roblox Verification made Easy and Fast with VeriBlox!
 
 [![Discord Bots](https://top.gg/api/widget/servers/872081372162973736.svg)](https://top.gg/bot/872081372162973736)
